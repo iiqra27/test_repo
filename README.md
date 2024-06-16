@@ -30,3 +30,12 @@ _This text is in italicise_
 For dataset , Click __[here](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets)__
 
 ![image](https://cdn.britannica.com/01/95901-050-49DFA760/Czech-Republic-operation-Temelin-Nuclear-Power-Plant-2003.jpg)
+
+---
+
+### Section C
+
+``` python
+def newfunc(a,b):
+ return a+b
+```
