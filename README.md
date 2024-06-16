@@ -39,3 +39,7 @@ For dataset , Click __[here](https://www.kaggle.com/datasets/alistairking/nuclea
 def newfunc(a,b):
  return a+b
 ```
+
+``` sql
+select* from employees;
+```
