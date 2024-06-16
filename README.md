@@ -41,5 +41,13 @@ def newfunc(a,b):
 ```
 
 ``` sql
-select* from employees;
+select* FROM employees;
 ```
+#### Tables
+
+
+| header 1| header 2| header 3|
+
+|---|---|---|
+
+|data1|data2|data3|
