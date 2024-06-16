@@ -6,4 +6,4 @@ def newfunc(a,b):
      return a/b
 
 def devB(a,b,c):
-    return a+b+c
+    return a+b-c
